@@ -1,0 +1,12 @@
+day1_cam1 filter=lfs diff=lfs merge=lfs -text
+day1_cam2 filter=lfs diff=lfs merge=lfs -text
+day1_cam3 filter=lfs diff=lfs merge=lfs -text
+day2_cam1 filter=lfs diff=lfs merge=lfs -text
+day2_cam2 filter=lfs diff=lfs merge=lfs -text
+day2_cam3 filter=lfs diff=lfs merge=lfs -text
+day3_cam1 filter=lfs diff=lfs merge=lfs -text
+day3_cam2 filter=lfs diff=lfs merge=lfs -text
+day3_cam3 filter=lfs diff=lfs merge=lfs -text
+day4_cam1 filter=lfs diff=lfs merge=lfs -text
+day4_cam2 filter=lfs diff=lfs merge=lfs -text
+day4_cam3 filter=lfs diff=lfs merge=lfs -text
